@@ -1,0 +1,10 @@
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\bin\Release\DistribucionFuenteVariable.exe.config
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\bin\Release\DistribucionFuenteVariable.exe
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\bin\Release\DistribucionFuenteVariable.pdb
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.csprojAssemblyReference.cache
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.Form1.resources
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.Properties.Resources.resources
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.csproj.GenerateResource.cache
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.csproj.CoreCompileInputs.cache
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.exe
+C:\Proyectos\Dispositivos\Development\Software\VisualStudio\DistribucionFuenteVariable\obj\Release\DistribucionFuenteVariable.pdb
